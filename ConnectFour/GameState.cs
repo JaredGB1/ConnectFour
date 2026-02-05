@@ -206,6 +206,12 @@ public class GameState
         TheBoard = new List<int>(new int[42]);
     }
 
+    public void ResetStreak()
+    {
+        ConsecutiveWinsP1 = 0;
+        ConsecutiveWinsP2 = 0;
+    }
+
     private byte ConvertLandingSpotToRow(int landingSpot)
     {
 

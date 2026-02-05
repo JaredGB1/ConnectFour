@@ -22,3 +22,6 @@ div{position:relative}nav{top:4em;width:30em;display:inline-flex;flex-direction:
 .streaks span {
     font-weight: 600;
 }
+.streaks button{
+    margin-top: 1rem;
+}

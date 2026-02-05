@@ -84,3 +84,4 @@ C:\Users\Jared\Desktop\Pathway\CSE325\ConnectFour\ConnectFour\obj\Debug\net10.0\
 C:\Users\Jared\Desktop\Pathway\CSE325\ConnectFour\ConnectFour\obj\Debug\net10.0\scopedcss\Components\Board.razor.rz.scp.css
 C:\Users\Jared\Desktop\Pathway\CSE325\ConnectFour\ConnectFour\obj\Debug\net10.0\compressed\8t7ubqbmk6-{0}-57al4bs7yp-57al4bs7yp.gz
 C:\Users\Jared\Desktop\Pathway\CSE325\ConnectFour\ConnectFour\obj\Debug\net10.0\compressed\qps0edvuu1-{0}-57al4bs7yp-57al4bs7yp.gz
+C:\Users\Jared\Desktop\Pathway\CSE325\ConnectFour\ConnectFour\obj\Debug\net10.0\ConnectFour.sourcelink.json
